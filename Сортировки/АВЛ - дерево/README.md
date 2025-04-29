@@ -29,7 +29,9 @@ typedef struct Node {
 } Node;
 ```
 
-## Сборка
-git clone https://github.com/ваш-username/avl-tree.git
+## Сборка 
+```
+git clone https://github.com/Jigomas/.../avl-tree.git
 cd avl-tree
 make
+```
